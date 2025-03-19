@@ -1,10 +1,18 @@
-### Hi there 👋, I'm Hammad Khalil
+<h1 align="center">Hi 👋, I'm Hammad Khalil</h1>
+<h3 align="center">A passionate MERN Stack Web Developer from Lahore, Pakistan</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-hammadkhalil&label=Profile%20views&color=0e75b6&style=flat" alt="dev-hammadkhalil" /> </p>
 
 - 🔭 I’m currently pursuing my **Bachelor's in Computer Science**.
+  
 - 🌱 I’m currently learning **Full Stack Web Development** and exploring modern web technologies.
+  
 - 👨‍💻 I’m working full-time as a **Backend Web Developer** at **Silicon Nexus**, building scalable and efficient systems.
+  
 - 💬 Ask me about **NestJS, Node.js, Express.js, JavaScript, or anything related to web development** – I’m happy to help!
+  
 - 📫 How to reach me: **dev.hammadkhalil@gmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
+  
 - ⚡ Fun fact: I’m **obsessed with JavaScript** and love solving complex problems with elegant code. 😅
 
 ---
