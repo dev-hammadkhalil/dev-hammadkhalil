@@ -52,6 +52,10 @@
 
 ![Snake Animation](https://github.com/dev-hammadkhalil/dev-hammadkhalil/blob/output/github-contribution-grid-snake.svg)
 
+![Snake Game](https://github.com/dev-hammadkhalil/dev-hammadkhalil/blob/output/github-contribution-grid-snake-game.svg)
+
+
+
 ---
 
 ### 📂 Featured Projects
