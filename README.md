@@ -56,6 +56,10 @@
 
 ---
 
+![Trophy](https://github-profile-trophy.vercel.app/?username=dev-hammadkhalil&theme=radical)
+
+---
+
 ### 📂 Featured Projects
 
 - **[MLS (Real-estate listing project)](https://github.com/dev-hammadkhalil/project1)** - A brief description of the project.
