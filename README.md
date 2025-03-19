@@ -50,7 +50,8 @@
 
 ---
 
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username)
+![Snake Animation](https://github.com/dev-hammadkhalil/dev-hammadkhalil/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 ### 📂 Featured Projects
