@@ -45,7 +45,7 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-hammadkhalil&show_icons=true&theme=radical&count_private=true&cache_seconds=86400)
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-hammadkhalil&show_icons=true&theme=radical&count_private=true&cache_seconds=86400" alt="GitHub Stats">
 </div>
 
 ---
