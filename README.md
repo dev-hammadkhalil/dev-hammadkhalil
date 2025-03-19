@@ -50,6 +50,12 @@
 
 ---
 
+### 🔥 GitHub Streaks
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=dev-hammadkhalil&theme=radical)](https://git.io/streak-stats)
+
+---
+
 ### 📂 Featured Projects
 
 - **[MLS (Real-estate listing project)](https://github.com/dev-hammadkhalil/project1)** - A brief description of the project.
