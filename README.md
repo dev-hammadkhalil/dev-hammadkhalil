@@ -50,14 +50,7 @@
 
 ---
 
-### 🔥 GitHub Streaks
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=dev-hammadkhalil&theme=radical)](https://git.io/streak-stats)
-
----
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=dev-hammadkhalil&theme=radical)
-
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username)
 ---
 
 ### 📂 Featured Projects
