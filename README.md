@@ -57,6 +57,8 @@
 - **[Your Credit Profile (financial management system)](https://github.com/dev-hammadkhalil/project3)** - A brief description of the project.
 - **[CarWash (CRM + POS)](https://github.com/dev-hammadkhalil/project4)** - A brief description of the project.
 - **[Active Chain (Course enrolment system)](https://github.com/dev-hammadkhalil/project5)** - A brief description of the project.
+- **[Strive (Third-party integrations)](https://github.com/dev-hammadkhalil/project5)** - A brief description of the project.
+- **[Regel-Tek Medical (Complete backend with async operations)](https://github.com/dev-hammadkhalil/project5)** - A brief description of the project.
 
 ---
 
