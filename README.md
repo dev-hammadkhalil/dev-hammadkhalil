@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-hammadkhalil&label=Profile%20views&color=0e75b6&style=flat" alt="dev-hammadkhalil" /> </p>
 
-- 🔭 I’m currently pursuing my **Bachelor's in Computer Science**.
+- 🎓 I’ve completed my Bachelor's in Computer Science.
   
 - 🌱 I’m currently learning **Full Stack Web Development** and exploring modern web technologies.
   
-- 👨‍💻 I’m working full-time as a **Backend Web Developer** at **Silicon Nexus**, building scalable and efficient systems.
+- 👨‍💻 I’m working full-time as a **Sr. NodeJs Backend Web Developer** at **Silicon Nexus**, building scalable and efficient systems.
   
 - 💬 Ask me about **NestJS, Node.js, Express.js, JavaScript, or anything related to web development** – I’m happy to help!
   
